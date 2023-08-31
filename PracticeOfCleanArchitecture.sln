@@ -13,13 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryInfrastructure", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{55B3013A-4AFC-4987-A523-2D78E43DBFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Tests", "Domain.Tests\Domain.Tests.csproj", "{4C1B57E1-3DB5-4402-A0F7-57CDDFF79A5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{71608862-BDDD-4489-A2A2-9E45508791AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -42,5 +41,12 @@ Global
 		{55B3013A-4AFC-4987-A523-2D78E43DBFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B3013A-4AFC-4987-A523-2D78E43DBFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B3013A-4AFC-4987-A523-2D78E43DBFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1B57E1-3DB5-4402-A0F7-57CDDFF79A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1B57E1-3DB5-4402-A0F7-57CDDFF79A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1B57E1-3DB5-4402-A0F7-57CDDFF79A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1B57E1-3DB5-4402-A0F7-57CDDFF79A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
