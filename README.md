@@ -1,2 +1,2 @@
-# PracticeOfCleanArchitecture
-クリーンアーキテクチャハンズオン
+# クリーンアーキテクチャハンズオン
+
