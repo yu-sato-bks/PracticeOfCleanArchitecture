@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCase", "UseCase\UseCase.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{15D19A35-0E4E-4462-9D24-A1FB19DAFCD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{BABD7D5E-CDA7-4EDC-B80F-5B297288859E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryInfrastructure", "InMemoryInfrastructure\InMemoryInfrastructure.csproj", "{CC471AB4-B7A3-4495-BEAD-110DA17AF013}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{15D19A35-0E4E-4462-9D24-A1FB19DAFCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15D19A35-0E4E-4462-9D24-A1FB19DAFCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15D19A35-0E4E-4462-9D24-A1FB19DAFCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABD7D5E-CDA7-4EDC-B80F-5B297288859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABD7D5E-CDA7-4EDC-B80F-5B297288859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABD7D5E-CDA7-4EDC-B80F-5B297288859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABD7D5E-CDA7-4EDC-B80F-5B297288859E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC471AB4-B7A3-4495-BEAD-110DA17AF013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC471AB4-B7A3-4495-BEAD-110DA17AF013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC471AB4-B7A3-4495-BEAD-110DA17AF013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC471AB4-B7A3-4495-BEAD-110DA17AF013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
